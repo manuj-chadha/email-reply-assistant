@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "viteReact",
+			"path": "../../../viteReact"
+		},
+		{
+			"name": "Coding",
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../Documents/FOTOGRAPHIYA"
+		},
+		{
+			"path": "../../../../nodeJS"
+		},
+		{
+			"path": "../../../../../Documents/FOTOGRAPHIYA/FOTOGRAPHIYA/FOTOGRAPHIYA/fotographiya"
+		},
+		{
+			"path": "../../../../twitter"
+		},
+		{
+			"path": "../../../../twitterProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FOTOGRAPHIYA"
+	}
+}
